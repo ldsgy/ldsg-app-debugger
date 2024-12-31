@@ -1,0 +1,4 @@
+services:
+  app:
+    image: node:20.11.0-bullseye
+    command: sleep infinity

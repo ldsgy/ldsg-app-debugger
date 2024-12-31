@@ -1,0 +1,1 @@
+nodemon --config nodemon.json --watch app --exec "sh shell/app/build.sh && sh shell/app/start.sh"
